@@ -16,7 +16,7 @@
 
 //     try {
 //       const res = await axios.post(
-//         "http://localhost:12345/api/register", // 🔥 PORT FIXED
+//         "http://localhost:12345/api/register", //  PORT FIXED
 //         data
 //       );
 
